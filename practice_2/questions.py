@@ -11,4 +11,6 @@ print(n==n+1)
 x = 2
 print( (x/2)==(x//2) )
 
-
+# question 3
+y = 2
+print( y+y*y==(y+y)*y)
