@@ -24,4 +24,9 @@
 # print(g+t==g+t)
 
 # question 6
-print(ord('A'))
+# print(ord('A'))
+
+# question 7
+radius =float( input('Radius: '))
+v = 2*radius
+print(v)
