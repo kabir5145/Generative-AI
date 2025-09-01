@@ -7,4 +7,8 @@ print(n==10)
 print(m==n+1)
 print(n==n+1)
 
+# question 2
+x = 2
+print( (x/2)==(x//2) )
+
 
