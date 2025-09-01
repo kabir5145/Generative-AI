@@ -14,3 +14,7 @@ print( (x/2)==(x//2) )
 # question 3
 y = 2
 print( y+y*y==(y+y)*y)
+
+# question 4
+z = '1'
+print(z+z*2==(z+z)*2)
