@@ -18,3 +18,7 @@ print( y+y*y==(y+y)*y)
 # question 4
 z = '1'
 print(z+z*2==(z+z)*2)
+
+# question 5
+g = '0'
+print(g+t==g+t)
