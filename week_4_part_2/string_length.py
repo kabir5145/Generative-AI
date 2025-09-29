@@ -1,0 +1,6 @@
+name = input('Name: ')
+length = len(name)
+print(f'Length : {length}')
+print(f'First letter: {name[0]}')
+print(f'Last letter: {name[length-1]}')
+print(f'Last letter: {name[-1]}')
